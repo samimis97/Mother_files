@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<studies>
+  <study>
+    <studyUID>1.2.124.113532.80.22170.59678.20200717.44504.121423767</studyUID>
+    <studyDate format="dd/MM/yyyy">17/07/2020</studyDate>
+    <modalities>DX</modalities>
+    <patientID>787478</patientID>
+    <patientName>AL ABDULATEEF ZAMZAM ALI </patientName>
+    <reportPath>IHE_PDI\00000001\00000000\00000000.PDF</reportPath>
+  </study>
+  <study>
+    <studyUID>1.2.124.113532.80.22170.59678.20200719.81314.123054342</studyUID>
+    <studyDate format="dd/MM/yyyy">19/07/2020</studyDate>
+    <modalities>US</modalities>
+    <patientID>787478</patientID>
+    <patientName>AL ABDULATEEF ZAMZAM ALI </patientName>
+    <reportPath>IHE_PDI\00000002\00000000\00000000.PDF</reportPath>
+  </study>
+  <study>
+    <studyUID>1.2.124.113532.80.22170.59678.20200716.83944.120172797</studyUID>
+    <studyDate format="dd/MM/yyyy">16/07/2020</studyDate>
+    <modalities>DX</modalities>
+    <patientID>787478</patientID>
+    <patientName>AL ABDULATEEF ZAMZAM ALI </patientName>
+    <reportPath>IHE_PDI\00000003\00000000\00000000.PDF</reportPath>
+  </study>
+  <study>
+    <studyUID>1.2.124.113532.80.22170.59678.20200716.70353.119973212</studyUID>
+    <studyDate format="dd/MM/yyyy">16/07/2020</studyDate>
+    <modalities>CT</modalities>
+    <patientID>787478</patientID>
+    <patientName>AL ABDULATEEF ZAMZAM ALI </patientName>
+    <reportPath>IHE_PDI\00000004\00000000\00000000.PDF</reportPath>
+  </study>
+  <study>
+    <studyUID>1.2.124.113532.80.22170.59678.20200713.103023.115417506</studyUID>
+    <studyDate format="dd/MM/yyyy">14/06/2020</studyDate>
+    <modalities>US</modalities>
+    <patientID>787478</patientID>
+    <patientName>AL ABDULATEEF ZAMZAM ALI </patientName>
+    <reportPath>IHE_PDI\00000005\00000000\00000000.PDF</reportPath>
+  </study>
+  <study>
+    <studyUID>1.2.124.113532.80.22170.59678.20200712.132702.114048712</studyUID>
+    <studyDate format="dd/MM/yyyy">12/07/2020</studyDate>
+    <modalities>MR</modalities>
+    <patientID>787478</patientID>
+    <patientName>AL ABDULATEEF ZAMZAM ALI </patientName>
+    <reportPath>IHE_PDI\00000006\00000000\00000000.PDF</reportPath>
+  </study>
+  <study>
+    <studyUID>1.2.124.113532.80.22170.59678.20200717.92748.121595789</studyUID>
+    <studyDate format="dd/MM/yyyy">17/07/2020</studyDate>
+    <modalities>CT</modalities>
+    <patientID>787478</patientID>
+    <patientName>AL ABDULATEEF ZAMZAM ALI </patientName>
+    <reportPath>IHE_PDI\00000007\00000000\00000000.PDF</reportPath>
+  </study>
+  <study>
+    <studyUID>1.2.124.113532.80.22170.59678.20200714.180427.117889346</studyUID>
+    <studyDate format="dd/MM/yyyy">14/07/2020</studyDate>
+    <modalities>DX</modalities>
+    <patientID>787478</patientID>
+    <patientName>AL ABDULATEEF ZAMZAM ALI </patientName>
+    <reportPath>IHE_PDI\00000008\00000000\00000000.PDF</reportPath>
+  </study>
+</studies>
